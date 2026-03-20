@@ -8,7 +8,7 @@ Funcionalidades
 - Validação de dados
 - Armazenamento no navegador (localStorage)
 
-#Tecnologias utilizadas
+Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript
@@ -17,10 +17,10 @@ Estrutura do projeto
 
 sistema-login/
 
-index.html
-cadastro.html
-style.css
-script.js
+├── index.html
+├── cadastro.html
+├── style.css
+└── script.js
 
 
 Como executar
@@ -29,8 +29,8 @@ Como executar
 3. Utilize no navegador
 
 Observações
-- Projeto para estudo
-- Sem banco de dados real
+- Demonstra conceitos de autenticação e manipulação de dados no front-end
+- Pode ser expandido com integração a back-end e banco de dados
 
 Autor
 Luan Barreto
